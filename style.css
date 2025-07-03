@@ -75,8 +75,10 @@
     list-style: none;
     font-size: 24px;
     user-select: none;
-    padding: 20px 50px;
+    padding: 10px 50px;
     position: relative;
+    border-bottom: 1px solid;
+    border-color: rgb(173, 173, 173);
 }
 
 #list_container > li::before {
